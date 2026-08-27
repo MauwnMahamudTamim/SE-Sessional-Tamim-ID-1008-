@@ -27,8 +27,8 @@
 | **Course Code** | **ICE4232** |
 |------------------|--|
 | **Course Title** | **Software Engineering Sessional**  |
-| **Experiment No** | **01**  |
-| **Experiment Title** | **Basic Documentation using markdown language.**  |
+| **Experiment No** | **02**  |
+| **Experiment Title** | **Study of different git commands.**  |
 
 ---
 
@@ -44,19 +44,12 @@
 
 | **Date of Experiment** | **Date of Submission** |
 |-------------------------|------------------------|
-|   23.07.25                      |     30.07.2026                   |
+|   30.07.25                      |     27.08.2026                   |
 
 
 
-## Objectve:
-1. To Learn basic syntax rules of markdown for clear text formating.
-2. Paractice Creating organizing headings bullets and structure tables many more.
-3. Develop professional documentation skill for teachical and software engineering report.
 
-## Theory
-Markdown Language is lightweight markup language design for quick formating .It converts pain text into structure HTML without require  complex code tags or bloated software interface.
 
-## Result:
 
 
 #  Call of the Mountains: A Journey to Bandarban {#custom-id}
@@ -132,10 +125,3 @@ Our itinerary was structured in JSON format:
   "lastName": "Smith",
   "age": 25
 }
-
-```
-## Discussion;
- In this experiment we demonstrate how markdown simplifies document structure through intuitive syntax . we using clean markup improves readability speed up documentation workflow and standrized techinal writing acroos project .
-
- ## Conclusion:
-In conclusion , Markdown provides an efficient lighweight approach to technical documentation mastering it's core rules allow developers to present structure ideas ,code and reports with maximum and speed.
