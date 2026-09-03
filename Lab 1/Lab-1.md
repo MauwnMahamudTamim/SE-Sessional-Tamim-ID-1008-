@@ -1,5 +1,5 @@
 ## Experiment No: 01
-### Experiment Name : Basic Documentation of Markdown lanaguage.
+## Experiment Name : Basic Documentation of Markdown lanaguage.
 
 ## Objectve:
 1. To Learn basic syntax rules of markdown for clear text formating.
