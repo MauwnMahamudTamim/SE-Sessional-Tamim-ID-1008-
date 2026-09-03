@@ -1,3 +1,19 @@
+# Experiment No: 02  
+## Experiment Name: Study of different Git commands
+
+## Objectives
+i. To become familiar with frequently used Git commands.
+ii. To establish and oversee Git repositories. 
+iii. To keep track of modifications and handle various file versions.  
+iv. To comprehend how Git facilitates teamwork in software development.
+
+
+## Theory
+
+Git is a widely used distributed version control system that helps developers manage and track changes in software projects. It allows users to maintain different versions of files, identify modifications, and return to previous versions when necessary. Git also makes collaboration easier by allowing multiple developers to work on the same project without losing each other’s changes. In this experiment, different commonly used Git commands are studied and practiced to understand their purposes and operations. The experiment includes creating and managing repositories, tracking files, staging and committing changes, viewing commit history, creating branches, switching between branches, and merging changes. It also introduces remote repositories and basic collaboration using GitHub. Through this experiment, students can develop a practical understanding of Git and learn how version control supports organized and efficient software development.
+
+## Code
+```
 <p align="center">
 
   # Bangladesh Army University of Engineering & Technology (BAUET)  
@@ -49,24 +65,59 @@
 
 ---
 
-# Experiment No: 02  
-## Experiment Name: Study of different Git commands
 
-## Objectives
-i. To become familiar with frequently used Git commands.
-ii. To establish and oversee Git repositories. 
-iii. To keep track of modifications and handle various file versions.  
-iv. To comprehend how Git facilitates teamwork in software development.
-
-
-## Theory
-
-Git is a widely used distributed version control system that helps developers manage and track changes in software projects. It allows users to maintain different versions of files, identify modifications, and return to previous versions when necessary. Git also makes collaboration easier by allowing multiple developers to work on the same project without losing each other’s changes. In this experiment, different commonly used Git commands are studied and practiced to understand their purposes and operations. The experiment includes creating and managing repositories, tracking files, staging and committing changes, viewing commit history, creating branches, switching between branches, and merging changes. It also introduces remote repositories and basic collaboration using GitHub. Through this experiment, students can develop a practical understanding of Git and learn how version control supports organized and efficient software development.
-
+```
 
 ## Result:
 
-![alt text](image.png)
+
+<p align="center">
+
+  # Bangladesh Army University of Engineering & Technology (BAUET)  
+  ### Qadirabad Cantonment, Natore–6431  
+  ---
+</p>
+
+
+---
+
+<p align="center">
+  <img src="BAUET_logo.png" alt="BAUET Logo" width="120">
+</p>
+    
+## Department of Information and Communication Engineering (ICE) 
+
+
+ # Lab Report 
+
+| **Obtained Mark** | **Signature & Date** |
+|--------------------|----------------------|
+|                    |                      |
+
+
+###  Course Information  
+
+| **Course Code** | **ICE4232** |
+|------------------|--|
+| **Course Title** | **Software Engineering Sessional**  |
+| **Experiment No** | **02**  |
+| **Experiment Title** | **Study of different git commands.**  |
+
+---
+
+| **Submitted By** | **Submitted To** |
+|------------------|------------------|
+| **Name: Abu Nagib Mohd. Mauwn Mahamud** | **Name: Sudipto Saha** |
+| **Student ID: 0812220205171008** | **Designation: Lecturer** |
+| **Batch: 13^th^** | **Dept: ICE** |
+| **Year: 4^th^** |  |
+| **Semester: 2nd** |  |
+
+---
+
+| **Date of Experiment** | **Date of Submission** |
+|-------------------------|------------------------|
+|   30.07.25                      |     27.08.2026                   |
 
 
 ## Conclusion
