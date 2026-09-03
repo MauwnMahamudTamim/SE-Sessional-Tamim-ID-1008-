@@ -1,31 +1,19 @@
 <div align="center">
-
 <br>
-
 <h3><i>Knowledge Is Power</i></h3>
-
 <h1>Bangladesh Army University of Engineering & Technology</h1>
-
 <img src="BAUET_Logo.png" height="250px" width="250px"/>
-
 <h2><b>Department of Information and Communication Engineering</b></h2>
-
 </div>
 
 <div align="center"><b>
-
 <br><br>
-
 Course Code: ICE-4232<br>
-
 Course Name: Software Engineering Sessional
-
 <br><br><br>
-
 </b></div>
 
 <!-- Submitted To / Submitted By -->
-
 <table align="center" width="100%">
   <tr>
     <th align="center">Submitted to:</th>
@@ -48,17 +36,16 @@ Course Name: Software Engineering Sessional
 <br><br>
 
 <!-- Index -->
-
 <div align="center">
-
 <h2><b>INDEX</b></h2>
-
-<table align="center">
+<table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
   <thead>
     <tr>
       <th align="center">Serial No.</th>
       <th align="center">Report Title</th>
       <th align="center">Report No.</th>
+      <th align="center">Date of Experiment</th>
+      <th align="center">Date of Submission</th>
     </tr>
   </thead>
   <tbody>
@@ -68,6 +55,8 @@ Course Name: Software Engineering Sessional
       <td align="center">
         <a href="Lab%201/Lab-1.md">Report-1</a>
       </td>
+      <td align="center">23.07.26</td>
+      <td align="center">30.07.26</td>
     </tr>
     <tr>
       <td align="center">02.</td>
@@ -75,8 +64,9 @@ Course Name: Software Engineering Sessional
       <td align="center">
         <a href="Lab%202/Lab report-2.md">Report-2</a>
       </td>
+      <td align="center">30.07.25</td>
+      <td align="center">27.08.2026</td>
     </tr>
   </tbody>
 </table>
-
 </div>
