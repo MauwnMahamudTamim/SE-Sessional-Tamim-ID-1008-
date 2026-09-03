@@ -71,7 +71,7 @@ Course Name: Software Engineering Sessional
     </tr>
     <tr>
       <td align="center">02.</td>
-      <td align="center">Lab Report 2</td>
+      <td align="center">Study of Different Git Commands</td>
       <td align="center">
         <a href="Lab%202/Lab report-2.md">Report-2</a>
       </td>
