@@ -14,110 +14,170 @@ Git is a widely used distributed version control system that helps developers ma
 
 ## Code
 ```
-<p align="center">
+<div align="center">
+<br>
+<h3><i>Knowledge Is Power</i></h3>
+<h1>Bangladesh Army University of Engineering & Technology</h1>
+<img src="BAUET_Logo.png" height="250px" width="250px"/>
+<h2><b>Department of Information and Communication Engineering</b></h2>
+</div>
 
-  # Bangladesh Army University of Engineering & Technology (BAUET)  
-  ### Qadirabad Cantonment, Natore–6431  
-  ---
-</p>
+<div align="center">
+<br><br>
+<h2><b>Lab Report</b></h2>
+<br>
+</div>
 
+<!-- Obtained Mark Table -->
+<div align="center">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 50%;">
+  <tr>
+    <th align="center" style="width: 50%;">Obtained Mark</th>
+    <th align="center" style="width: 50%;">Signature & Date</th>
+  </tr>
+  <tr>
+    <td align="center" height="50px"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+</div>
 
----
+<br><br>
 
-<p align="center">
-  <img src="BAUET_logo.png" alt="BAUET Logo" width="120">
-</p>
-    
-## Department of Information and Communication Engineering (ICE) 
+<!-- Course Information -->
+<div align="center"><b>
+Course Code: ICE-4232<br>
+Course Title: Software Engineering Sessional<br>
+Experiment No: 02<br>
+Experiment Title: Study of different git commands.
+</b></div>
 
+<br><br>
 
- # Lab Report 
+<!-- Submitted To / Submitted By -->
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Submitted to:</th>
+    <th align="center">Submitted By:</th>
+  </tr>
+  <tr>
+    <td align="center">Sudipto Saha</td>
+    <td align="center">Abu Nagib Mohd. Mauwn Mahamud</td>
+  </tr>
+  <tr>
+    <td align="center">Lecturer,</td>
+    <td align="center">ID: 0812220205171008</td>
+  </tr>
+  <tr>
+    <td align="center">Department of ICE, BAUET</td>
+    <td align="center">Batch: 13<sup>th</sup></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">Year: 4<sup>th</sup> | Semester: 2nd</td>
+  </tr>
+</table>
 
-| **Obtained Mark** | **Signature & Date** |
-|--------------------|----------------------|
-|                    |                      |
+<br><br>
 
-
-###  Course Information  
-
-| **Course Code** | **ICE4232** |
-|------------------|--|
-| **Course Title** | **Software Engineering Sessional**  |
-| **Experiment No** | **02**  |
-| **Experiment Title** | **Study of different git commands.**  |
-
----
-
-| **Submitted By** | **Submitted To** |
-|------------------|------------------|
-| **Name: Abu Nagib Mohd. Mauwn Mahamud** | **Name: Sudipto Saha** |
-| **Student ID: 0812220205171008** | **Designation: Lecturer** |
-| **Batch: 13^th^** | **Dept: ICE** |
-| **Year: 4^th^** |  |
-| **Semester: 2nd** |  |
-
----
-
-| **Date of Experiment** | **Date of Submission** |
-|-------------------------|------------------------|
-|   30.07.25                      |     27.08.2026                   |
-
-
----
-
+<!-- Date of Experiment & Date of Submission -->
+<div align="center">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 50%;">
+  <tr>
+    <th align="center" style="width: 50%;">Date of Experiment</th>
+    <th align="center" style="width: 50%;">Date of Submission</th>
+  </tr>
+  <tr>
+    <td align="center">30.07.25</td>
+    <td align="center">27.08.2026</td>
+  </tr>
+</table>
+</div>
 
 ```
 
 ## Result:
 
 
-<p align="center">
+<div align="center">
+<br>
+<h3><i>Knowledge Is Power</i></h3>
+<h1>Bangladesh Army University of Engineering & Technology</h1>
+<img src="BAUET_Logo.png" height="250px" width="250px"/>
+<h2><b>Department of Information and Communication Engineering</b></h2>
+</div>
 
-  # Bangladesh Army University of Engineering & Technology (BAUET)  
-  ### Qadirabad Cantonment, Natore–6431  
-  ---
-</p>
+<div align="center">
+<br><br>
+<h2><b>Lab Report</b></h2>
+<br>
+</div>
 
+<!-- Obtained Mark Table -->
+<div align="center">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 50%;">
+  <tr>
+    <th align="center" style="width: 50%;">Obtained Mark</th>
+    <th align="center" style="width: 50%;">Signature & Date</th>
+  </tr>
+  <tr>
+    <td align="center" height="50px"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+</div>
 
----
+<br><br>
 
-<p align="center">
-  <img src="BAUET_logo.png" alt="BAUET Logo" width="120">
-</p>
-    
-## Department of Information and Communication Engineering (ICE) 
+<!-- Course Information -->
+<div align="center"><b>
+Course Code: ICE-4232<br>
+Course Title: Software Engineering Sessional<br>
+Experiment No: 02<br>
+Experiment Title: Study of different git commands.
+</b></div>
 
+<br><br>
 
- # Lab Report 
+<!-- Submitted To / Submitted By -->
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Submitted to:</th>
+    <th align="center">Submitted By:</th>
+  </tr>
+  <tr>
+    <td align="center">Sudipto Saha</td>
+    <td align="center">Abu Nagib Mohd. Mauwn Mahamud</td>
+  </tr>
+  <tr>
+    <td align="center">Lecturer,</td>
+    <td align="center">ID: 0812220205171008</td>
+  </tr>
+  <tr>
+    <td align="center">Department of ICE, BAUET</td>
+    <td align="center">Batch: 13<sup>th</sup></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">Year: 4<sup>th</sup> | Semester: 2nd</td>
+  </tr>
+</table>
 
-| **Obtained Mark** | **Signature & Date** |
-|--------------------|----------------------|
-|                    |                      |
+<br><br>
 
-
-###  Course Information  
-
-| **Course Code** | **ICE4232** |
-|------------------|--|
-| **Course Title** | **Software Engineering Sessional**  |
-| **Experiment No** | **02**  |
-| **Experiment Title** | **Study of different git commands.**  |
-
----
-
-| **Submitted By** | **Submitted To** |
-|------------------|------------------|
-| **Name: Abu Nagib Mohd. Mauwn Mahamud** | **Name: Sudipto Saha** |
-| **Student ID: 0812220205171008** | **Designation: Lecturer** |
-| **Batch: 13^th^** | **Dept: ICE** |
-| **Year: 4^th^** |  |
-| **Semester: 2nd** |  |
-
----
-
-| **Date of Experiment** | **Date of Submission** |
-|-------------------------|------------------------|
-|   30.07.25                      |     27.08.2026                   |
+<!-- Date of Experiment & Date of Submission -->
+<div align="center">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 50%;">
+  <tr>
+    <th align="center" style="width: 50%;">Date of Experiment</th>
+    <th align="center" style="width: 50%;">Date of Submission</th>
+  </tr>
+  <tr>
+    <td align="center">30.07.25</td>
+    <td align="center">27.08.2026</td>
+  </tr>
+</table>
+</div>   |
 
 
 ## Conclusion
