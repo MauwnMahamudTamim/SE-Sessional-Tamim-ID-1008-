@@ -1,52 +1,5 @@
-<p align="center">
-
-  # Bangladesh Army University of Engineering & Technology (BAUET)  
-  ### Qadirabad Cantonment, Natore–6431  
-  ---
-</p>
-
-
----
-
-<p align="center">
-  <img src="BAUET_Logo.png" alt="BAUET Logo" width="120">
-</p>
-    
-## Department of Information and Communication Engineering (ICE) 
-
-
- # Lab Report 
-
-| **Obtained Mark** | **Signature & Date** |
-|--------------------|----------------------|
-|                    |                      |
-
-
-###  Course Information  
-
-| **Course Code** | **ICE4232** |
-|------------------|--|
-| **Course Title** | **Software Engineering Sessional**  |
-| **Experiment No** | **01**  |
-| **Experiment Title** | **Basic Documentation using markdown language.**  |
-
----
-
-| **Submitted By** | **Submitted To** |
-|------------------|------------------|
-| **Name: Abu Nagib Mohd. Mauwn Mahamud** | **Name: Sudipto Saha** |
-| **Student ID: 0812220205171008** | **Designation: Lecturer** |
-| **Batch: 13^th^** | **Dept: ICE** |
-| **Year: 4^th^** |  |
-| **Semester: 2nd** |  |
-
----
-
-| **Date of Experiment** | **Date of Submission** |
-|-------------------------|------------------------|
-|   23.07.25                      |     30.07.2026                   |
-
-
+## Experiment No: 01
+### Experiment Name : Basic Documentation of Markdown lanaguage.
 
 ## Objectve:
 1. To Learn basic syntax rules of markdown for clear text formating.
