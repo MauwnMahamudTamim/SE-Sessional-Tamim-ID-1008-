@@ -177,8 +177,9 @@ Experiment Title: Study of different git commands.
     <td align="center">27.08.2026</td>
   </tr>
 </table>
-</div>   |
+</div>   
 
+![image.png](image.png)|
 
 ## Conclusion
 
