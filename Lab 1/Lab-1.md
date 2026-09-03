@@ -135,7 +135,6 @@ Our itinerary was structured in JSON format:
   "age": 25
 }
 ```
-```
 
 ## Result:
 #  Call of the Mountains: A Journey to Bandarban {#custom-id}
